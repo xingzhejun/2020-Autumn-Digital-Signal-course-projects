@@ -1,9 +1,7 @@
-Course pojects EE, THU, 2020 summer
+Course pojects EE, THU, 2020 autumn
 
-Course: Advanced Matlab Programming and Its Application
+Course: Digital Signal Processing
 
-Project1: Voice Processing
+Project1: DTMF Long Signal Processing
 
-Project2: Image processing
-
-Language: Matlab
+Language: C++
